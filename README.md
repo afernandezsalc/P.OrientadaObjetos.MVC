@@ -1,2 +1,2 @@
-# afernandezsalc_PRAC2j
- 
+# Antonio Fernandez Salcedo 
+# Programación Orientada a Objetos
